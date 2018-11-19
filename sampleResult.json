@@ -1,0 +1,149 @@
+{
+ "query": {
+  "count": 1,
+  "created": "2018-11-14T10:16:27Z",
+  "lang": "en-US",
+  "results": {
+   "channel": {
+    "units": {
+     "distance": "mi",
+     "pressure": "in",
+     "speed": "mph",
+     "temperature": "F"
+    },
+    "title": "Yahoo! Weather - Vilnius, Vilnius County, LT",
+    "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-479616/",
+    "description": "Yahoo! Weather for Vilnius, Vilnius County, LT",
+    "language": "en-us",
+    "lastBuildDate": "Wed, 14 Nov 2018 12:16 PM EET",
+    "ttl": "60",
+    "location": {
+     "city": "Vilnius",
+     "country": "Lithuania",
+     "region": " Vilnius County"
+    },
+    "wind": {
+     "chill": "39",
+     "direction": "325",
+     "speed": "18"
+    },
+    "atmosphere": {
+     "humidity": "92",
+     "pressure": "1000.0",
+     "rising": "0",
+     "visibility": "14.6"
+    },
+    "astronomy": {
+     "sunrise": "7:48 am",
+     "sunset": "4:17 pm"
+    },
+    "image": {
+     "title": "Yahoo! Weather",
+     "width": "142",
+     "height": "18",
+     "link": "http://weather.yahoo.com",
+     "url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+    },
+    "item": {
+     "title": "Conditions for Vilnius, Vilnius County, LT at 11:00 AM EET",
+     "lat": "54.68985",
+     "long": "25.26926",
+     "link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-479616/",
+     "pubDate": "Wed, 14 Nov 2018 11:00 AM EET",
+     "condition": {
+      "code": "26",
+      "date": "Wed, 14 Nov 2018 11:00 AM EET",
+      "temp": "45",
+      "text": "Cloudy"
+     },
+     "forecast": [
+      {
+       "code": "12",
+       "date": "14 Nov 2018",
+       "day": "Wed",
+       "high": "45",
+       "low": "40",
+       "text": "Rain"
+      },
+      {
+       "code": "26",
+       "date": "15 Nov 2018",
+       "day": "Thu",
+       "high": "42",
+       "low": "36",
+       "text": "Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "16 Nov 2018",
+       "day": "Fri",
+       "high": "38",
+       "low": "31",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "28",
+       "date": "17 Nov 2018",
+       "day": "Sat",
+       "high": "36",
+       "low": "30",
+       "text": "Mostly Cloudy"
+      },
+      {
+       "code": "12",
+       "date": "18 Nov 2018",
+       "day": "Sun",
+       "high": "38",
+       "low": "33",
+       "text": "Rain"
+      },
+      {
+       "code": "30",
+       "date": "19 Nov 2018",
+       "day": "Mon",
+       "high": "33",
+       "low": "27",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "20 Nov 2018",
+       "day": "Tue",
+       "high": "32",
+       "low": "26",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "21 Nov 2018",
+       "day": "Wed",
+       "high": "33",
+       "low": "25",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "22 Nov 2018",
+       "day": "Thu",
+       "high": "31",
+       "low": "27",
+       "text": "Partly Cloudy"
+      },
+      {
+       "code": "30",
+       "date": "23 Nov 2018",
+       "day": "Fri",
+       "high": "29",
+       "low": "24",
+       "text": "Partly Cloudy"
+      }
+     ],
+     "description": "<![CDATA[<img src=\"http://l.yimg.com/a/i/us/we/52/26.gif\"/>\n<BR />\n<b>Current Conditions:</b>\n<BR />Cloudy\n<BR />\n<BR />\n<b>Forecast:</b>\n<BR /> Wed - Rain. High: 45Low: 40\n<BR /> Thu - Cloudy. High: 42Low: 36\n<BR /> Fri - Partly Cloudy. High: 38Low: 31\n<BR /> Sat - Mostly Cloudy. High: 36Low: 30\n<BR /> Sun - Rain. High: 38Low: 33\n<BR />\n<BR />\n<a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-479616/\">Full Forecast at Yahoo! Weather</a>\n<BR />\n<BR />\n<BR />\n]]>",
+     "guid": {
+      "isPermaLink": "false"
+     }
+    }
+   }
+  }
+ }
+}
